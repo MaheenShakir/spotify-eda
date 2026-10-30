@@ -24,23 +24,22 @@ This project explores the Spotify Tracks Dataset using Python. The goal is to an
 - Converted track duration from milliseconds to minutes.
 - Investigated repeated track IDs and retained valid entries across different genres.
 
-## Analysis & Visualizations
+## Visualizations
 
-### 1. Distribution of Track Popularity
-![Popularity Distribution](visualizations/popularity distribution.png)
+### 1. Popularity Distribution
+![Popularity Distribution](visualizations/popularity%20distribution.png)
 
-### 2. Top 10 Genres by Average Popularity
-![Top Genres](visualizations/top genres popularity.png)
+### 2. Top Genres by Popularity
+![Top Genres](visualizations/top%20genres%20popularity.png)
 
 ### 3. Danceability vs Energy
-![Danceability vs Energy](visualizations/danceability vs energy.png)
+![Danceability vs Energy](visualizations/danceability%20vs%20energy.png)
 
-### 4. Correlation Between Spotify Audio Features
-![Correlation Heatmap](visualizations/correlation heatmap.png)
+### 4. Correlation Heatmap
+![Correlation Heatmap](visualizations/correlation%20heatmap.png)
 
-### 5. Average Popularity: Explicit vs Non-Explicit
-![Explicit vs Non-Explicit](visualizations/explicit vs non explicit.png)
-
+### 5. Explicit vs Non-Explicit Tracks
+![Explicit vs Non-Explicit](visualizations/explicit%20vs%20non%20explicit.png)
 ## Key Findings
 - The average track popularity is 33.32.
 - Pop-film has the highest average popularity (59.28), followed by K-pop (56.96).
