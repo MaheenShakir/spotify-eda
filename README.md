@@ -1,4 +1,4 @@
-# Spotify Music Dataset – Exploratory Data Analysis (EDA)
+# Spotify Music Dataset Exploratory Data Analysis (EDA)
 
 ## Project Overview
 This project explores the Spotify Tracks Dataset using Python. The goal is to analyze music trends, track popularity, genres, and audio features through data cleaning, statistical analysis, and visualization.
